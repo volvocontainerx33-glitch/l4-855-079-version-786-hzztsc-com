@@ -1,0 +1,9 @@
+{
+  "name": "高清亚洲影片-精选影片片单-高清影片在线观看",
+  "short_name": "高清亚洲影片",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#2563eb",
+  "description": "汇总高清亚洲影片内容，涵盖多地区、多类型影片片单，适合按题材和热度浏览。"
+}
